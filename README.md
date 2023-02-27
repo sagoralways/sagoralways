@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Sagor Ali</h1>
 <h3 align="center">A passionate front-end web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagoralways&label=Profile%20views&color=0e75b6&style=flat" alt="sagoralways" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagoralways" alt="sagoralways" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sagoralways" target="blank"><img src="https://img.shields.io/twitter/follow/sagoralways?logo=twitter&style=for-the-badge" alt="sagoralways" /></a> </p>
 
 - 🔭 I’m currently working on **Social media's marketplace**
 
